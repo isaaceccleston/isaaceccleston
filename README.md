@@ -1,4 +1,6 @@
 - 👋 Hi, I'm isaac.
 - 👀 Interested in Game Development & general software engineering :)
 - 🌱 Currently 1st year BSc Computer Science @ Cardiff University
-- 📫 Reach me -> Email: ecclestonisaac122@gmail.com
+- 📫 Reach me -> 
+        Email: ecclestonisaac122@gmail.com
+        Discord: isaacecc.
